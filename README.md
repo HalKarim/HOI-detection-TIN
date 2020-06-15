@@ -1,7 +1,11 @@
 # HOI-detection-TIN
 
+I used the "Transferable Interactiveness Knowledge for Human-Object Interaction Detection"[[website]](https://github.com/DirtyHarryLYL/HOI-Learning-List)
+And based on this method, developed a visual interactive system of Hoi detection.
+
 ### Installation
-1.Download dataset and setup evaluation and API. (The detection results (person and object boudning boxes) are collected from: iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection [website].)
+1.Download dataset and setup evaluation and API. (The detection results (person and object boudning boxes) are collected from: iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection [[website]](http://chengao.vision/iCAN/).)
+
 ```
 chmod +x ./script/Dataset_download.sh 
 ./script/Dataset_download.sh
